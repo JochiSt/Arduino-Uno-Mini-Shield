@@ -1,2 +1,2 @@
 # Arduino-Uno-Mini-Shield
-Shield for Arduino Uni Mini (limited edition)
+Shield template for [Arduino Uni Mini (limited edition)](https://docs.arduino.cc/hardware/uno-mini-le)
